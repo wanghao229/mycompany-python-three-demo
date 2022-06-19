@@ -1,0 +1,9 @@
+site_name: MyCompany
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
+
+
+theme: readthedocs
+
